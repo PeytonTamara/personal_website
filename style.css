@@ -2,6 +2,7 @@ h1 {
 	color: #FFD233;
 	background-color: #33FFDC;
 	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 h5{
 	opacity: 0.5;
@@ -12,20 +13,31 @@ p {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
 }
-h1 {
-	font-family: "Comic Sans MS", cursive, sans-serif;
-	text-align: center;
-}
 h2 {
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	text-align: center;
 }
 body {
-	background-color: #C9048D
+	background-color: #C9048D;
 }
 img {
 	display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%
+    width: 25%;
+}
+button {
+    background-color: #33FFDC;
+    border: none;
+    color: #FFD233;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+form {
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 14px;
 }
